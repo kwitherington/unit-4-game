@@ -1,0 +1,34 @@
+.gems {
+ max-height: 100px;
+ max-width: 100px;
+ margin: auto;
+}
+
+.gameTitle {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.randomNumberSection {
+    text-align: center;
+    color: navy;
+    margin-bottom: 5px;
+}
+
+.record {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.totalScoreSection {
+    text-align: center;
+}
+
+#totalScore {
+    text-align: center;
+    color: forestgreen;
+    margin: auto;
+}
+
